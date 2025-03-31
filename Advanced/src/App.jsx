@@ -1,3 +1,4 @@
+import LnfiniteTunnel from './Example/LnfiniteTunnel'
 import LogoPixelBreak from './Example/LogoPixelBreak'
 
 function App() {
@@ -5,7 +6,8 @@ function App() {
 
   return (
     <>
-    <LogoPixelBreak />
+    {/* <LogoPixelBreak /> */}
+    <LnfiniteTunnel />
     </>
   )
 }
