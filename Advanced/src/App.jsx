@@ -1,5 +1,6 @@
 import LnfiniteTunnel from './Example/LnfiniteTunnel'
 import LogoPixelBreak from './Example/LogoPixelBreak'
+import LonEffect from './Example/LonEffect'
 
 function App() {
   
@@ -7,7 +8,8 @@ function App() {
   return (
     <>
     {/* <LogoPixelBreak /> */}
-    <LnfiniteTunnel />
+    {/* <LnfiniteTunnel /> */}
+    <LonEffect />
     </>
   )
 }
