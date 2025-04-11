@@ -4,6 +4,7 @@ import LogoPixelBreak from './Example/LogoPixelBreak'
 import LonEffect from './Example/LonEffect'
 import PlaneGeometry from './Example/PlaneGeometry'
 import UseCard from './Example/UseCard'
+import GLSLA from './ShaderLearning/GLSLA'
 
 function App() {
   
@@ -15,7 +16,8 @@ function App() {
     {/* <LonEffect /> */}
     {/* <Asssa /> */}
     {/* <UseCard image="/Use2.png" skip={2} /> */}
-    <PlaneGeometry />
+    {/* <PlaneGeometry /> */}
+    <GLSLA />
     </>
   )
 }
